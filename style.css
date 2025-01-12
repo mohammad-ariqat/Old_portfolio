@@ -1,0 +1,15 @@
+#title{
+    background-color: #F9F7F7;
+}
+#title img{
+    border-radius: 50px;
+}
+#skills{
+    
+    background-color: #DBE2EF;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
